@@ -5,6 +5,7 @@
   "author": "Kaito Udagawa <umireon@gmail.com>",
   "description": "dosen hubot",
   "dependencies": {
+    "githubot": "^1.0.0-beta2",
     "hubot": "^2.9.3",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.0",
